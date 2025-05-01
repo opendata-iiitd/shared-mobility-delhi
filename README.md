@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/975916702.svg)](https://doi.org/10.5281/zenodo.15314790)
+
 # GTFS Flex Shared Mobility Dataset
 
 ## Overview
